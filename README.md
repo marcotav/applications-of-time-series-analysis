@@ -1,11 +1,6 @@
-<br>
-<br>
-<p align="center">
-  <img src="images/net-analysis-logo.png" 
-       width="80">
 </p>
 <p align="center">
-  <img src="images/net-analysis-name.png" 
+  <img src="images/Causal Effects on Time Series-logo-black.png" 
        width="700">
 </p>
 <br>
