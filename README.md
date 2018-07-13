@@ -1,7 +1,7 @@
 </p>
 <p align="center">
   <img src="images/Causal Effects on Time Series-logo-black.png" 
-       width="700">
+       width="500">
 </p>
 <br>
 
