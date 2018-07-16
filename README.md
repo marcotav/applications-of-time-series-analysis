@@ -15,7 +15,8 @@
 
 ## Introduction
 
-In this repo I will show how to use the R package `CausalImpact` to measure how ad campaigns affect outcomes such as sales or ROI. It will also be useful as an introduction to using R in a Jupyter Notebook. 
+In this repo I will show how to use the R package `CausalImpact` to measure how ad campaigns affect outcomes such as sales or ROI. It will also be useful as an introduction to using R in a Jupyter Notebook (which is language agnostic).
+
 ## Bayesian structural time series
 
 First we will introduce some basic concepts regarding [Bayesian structural time series](https://en.wikipedia.org/wiki/Bayesian_structural_time_series). BSTS is a machine learning technique with a variety of useful applications. Here we will discuss two of them, namely, forecasting and causal inference. The model has three main components namely: 
