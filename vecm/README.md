@@ -1,6 +1,6 @@
 # Vector Error Correction Model (VECM): Applications In Finance
-
-<img align="left" width="60" height="200" src="https://img.shields.io/badge/R-v3.5.0-green.svg">
+<br>
+<img align="left" width="60" src="https://img.shields.io/badge/R-v3.5.0-green.svg">
 <br>
 
 ### Notebook by [Marco Tavora](https://marcotavora.me/)
@@ -114,7 +114,7 @@ The most well known cointegration test is the Johansen test which estimates the 
 <br>
 <p align="center">
   <img src="images/alphabeta.png" 
-       width="900">
+       width="200">
 </p>
 
 is zero or not. If the determinant is not zero, the series are cointegrated.
@@ -190,3 +190,4 @@ SPY.l3    -84.59851
 constant 6927.78683
 
 ```
+The β coefficients are given above. The γ coefficients are above them.
