@@ -1,4 +1,4 @@
-# Vector Error Correction Model (VECM): Applications In Finance
+## Vector Error Correction Model (VECM): Applications In Finance
 <br>
 <img align="left" width="60" src="https://img.shields.io/badge/R-v3.5.0-green.svg">
 <br>
