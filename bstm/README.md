@@ -1,7 +1,7 @@
 # Bayesian Structural Time Series 
 
 <br>
-<img align="left" width="60" height="200" src="https://img.shields.io/badge/R-v3.5.0-green.svg">
+<img align="left" height="20" src="https://img.shields.io/badge/R-v3.5.0-green.svg">
 <br>
 
 ### Notebook by [Marco Tavora](http://www.marcotavora.me)
