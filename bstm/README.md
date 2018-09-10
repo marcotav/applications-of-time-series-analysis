@@ -1,13 +1,12 @@
 </p>
 <p align="center">
-  <img src="images/Causal Effects on Time Series-logo-black.png" 
+  <img src="images/Causal Effects on Time Series-logo-black (2).png" 
        width="500">
 </p>
-\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Image title](https://img.shields.io/badge/CausalImpact-v1.2.1-blue.svg) ![Image title](https://img.shields.io/badge/R-v3.5.0-green.svg) 
 
 ### Notebook by [Marco Tavora](http://www.marcotavora.me)
+
+![Image title](https://img.shields.io/badge/CausalImpact-v1.2.1-blue.svg) ![Image title](https://img.shields.io/badge/R-v3.5.0-green.svg) 
 
 ## Table of contents
 
