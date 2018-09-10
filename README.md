@@ -1,4 +1,4 @@
-# Time Series
+# Applications of Time Series Analysis
 
 ### Notebook by [Marco Tavora](http://www.marcotavora.me)
 
