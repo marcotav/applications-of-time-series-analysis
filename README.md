@@ -8,7 +8,7 @@
 
 Application of time series analysis, including the Bayesian type, to several problems. 
 
-### Notebooks and descriptions
+## Notebooks and descriptions
 | Project | Brief Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [bayesian-sts](https://github.com/marcotav/time-series/blob/master/bstm/notebooks/bayesian-sts.ipynb) | Bayesian Structural Time Series: the Deepwater Horizon oil spill impact of BP stocks|
